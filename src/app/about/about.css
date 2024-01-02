@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    gap: 50px;
+}
+
+.header li {
+    list-style: none;
+}
+
+.header li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: blue;
+}
+
+
+.heading {
+    text-align: center;
+    margin-top: 50px;
+    color: orange;
+    font-size: 50px;
+}
